@@ -4,4 +4,4 @@ Esse é o meu projeto do módulo das aulas de Flexbox. Usei o código-fonte forn
 
 ### Nivaldo Ap. Coelho - BootCamp Santander FullStack -
 
-## 🚀 Let's code! 🚀
+## 🚀 Yes, I have encoded! 🚀
